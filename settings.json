@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CLODDYSMP.aternos.me:40077",
+    "ip": "CLODDYSMP.aternos.me",
     "port": 40077,
     "version": "1.21.11",
     "try-creative": false
