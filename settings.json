@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bonito.aternos.host:40077",
+    "ip": "CLODDYSMP.aternos.me:40077",
     "port": 40077,
     "version": "1.21.11",
     "try-creative": false
