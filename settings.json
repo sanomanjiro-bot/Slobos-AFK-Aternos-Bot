@@ -3,8 +3,8 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
-  },
+    "type": "offline"                         
+    
   "server": {
     "ip": "CLODDYSMP.aternos.me",
     "port": 40077,
